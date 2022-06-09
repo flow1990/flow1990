@@ -1,10 +1,10 @@
 <body>
-  <div align="left">
+  <div>
     <h1>Hey, it's me - <B>FLOW</B>! <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/ich_kreis.png" alt="itsame" width="250" align="right"></h1>
   </div>
-  <h2 align="left">About me:</h2>
   <div>
-      <table align="left">
+    <h2>About me:</h2>
+      <table>
           <th>Hobbys:</th>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="50"></td>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="50"></td>
