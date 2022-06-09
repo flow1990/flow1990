@@ -37,7 +37,7 @@
     <div align="middle">
       <h3>Actual projects</h3>
     <dl>
-      <dt><a href="https://github.com/flow1990/Humidity_Observer" style="text-decoration: none;">Humidity Observer</a></dt>
+      <dt><a href="https://github.com/flow1990/Humidity_Observer" style="text-decoration: none; font-color:"white">Humidity Observer</a></dt>
       <dd></dd>
     </dl>
     </div>
