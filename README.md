@@ -1,8 +1,8 @@
 <body>
-  <!-- BANNER -->
-  <div align="left">
+  <!-- HEADER -->
+  <header align="left">
     <h1>Hey, it's me - <B>FLOW</B>! <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/ich_kreis.png" alt="itsame" width="250" align="right"></h1>
-  </div>
+  </header>
   <!-- ABOUT ME -->
   <div align="left">
     <h2>About me:</h2>
@@ -54,4 +54,5 @@
       <dd>A dock for the <a href="https://github.com/Annex-Engineering/Quickdraw_Probe">Quickdraw Probe</a> for bed slinger printers with small space between bed and frame.</dd>
       </dl>
     </div>
+  
 </body>
