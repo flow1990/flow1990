@@ -37,8 +37,8 @@
     <div align="middle">
       <h3>Actual projects</h3>
     <dl>
-      <dt><a href="https://github.com/flow1990/Humidity_Observer" style="text-decoration: none; font-color:"white">Humidity Observer</a></dt>
-      <dd></dd>
+      <dt><a href="https://github.com/flow1990/Humidity_Observer">Humidity Observer</a><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/screenshot_side_view_voron_logo.png" alt="humidity_observer_pic" width="50"</dt>
+      <dd>A case </dd>
     </dl>
     </div>
       </div>
