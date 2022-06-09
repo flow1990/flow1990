@@ -8,8 +8,6 @@
           <th>Hobbys:</th>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="50"></td>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="50"></td>
-      </table>
-      <table align="middle" padding-left="25px">
         <tr>
           <th>I speak:</th>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/english.png" alt="british_flag" width="50"></td>
