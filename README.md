@@ -23,6 +23,11 @@
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/css.png" alt="css_icon" width="50"></td>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/js.png" alt="js_icon" width="50"></td>
         </tr>
+        <tr>
+          <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/apple.png" alt="apple_icon" width="50"></td>
+          <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/windoof.png" alt="windows_icon" width="50"></td>
+          <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/linux.webp" alt="linux_icon" width="50"></td>
+        </tr>
       </table>
     </div>
 
