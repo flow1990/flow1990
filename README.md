@@ -60,6 +60,6 @@
   <footer align="left">
     You can also find me on Instagram:
     <br>
-    <a href="https://www.instagram.com/relevant_stranger/"><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/insta.png" alt="instagram_icon" width="35">relevant_stranger</a>
+    <a href="https://www.instagram.com/relevant_stranger/"><img src="https://de.wikipedia.org/wiki/Datei:Instagram_icon.png" alt="instagram_icon" width="35">relevant_stranger</a>
   </footer>
 </body>
