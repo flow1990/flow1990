@@ -4,7 +4,7 @@
     <div align="left">
       <h2>About me:</h2>
       <table>
-        <th>Hobbys</th>
+        <th>Hobbys:</th>
       <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="50"></td>
       <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="50"></td>
       </table>
