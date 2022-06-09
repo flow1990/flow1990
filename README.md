@@ -1,12 +1,1 @@
-<style>
-body {
-  background-color: linen;
-}
 
-h1 {
-  color: maroon;
-  margin-left: 40px;
-} 
-</style>
-<body>
-</body>
