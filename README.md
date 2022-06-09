@@ -35,13 +35,13 @@
         </tr>
       </table>
     <div align="right">
-      <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="25" align="left">
-      <h3>Actual projects:</h3>
+      <div align="left"><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="75" align="left">3D Prinint projects:
+      <h3>Actual:</h3>
     <dl>
       <dt> | <a href="https://github.com/flow1990/Humidity_Observer">Humidity Observer</a> <I>(in progress)</I><dt>
       <dd>A case for a normal humidity sensor to attach it to an Filament Drybox and keep the box sealed from humidity.</dd>
       </dl>
-      <h3>Hopefully soon coming projects/ideas:</h3>
+      <h3>(Hopefully) soon coming ideas:</h3>
     <dl>
       <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="25"> | Tiny Quickdraw Dock</a><dt>
       <dd>A dock for the <a href="https://github.com/Annex-Engineering/Quickdraw_Probe">Quickdraw Probe</a> for bed slinger printers with small space between bed and frame.</dd>
