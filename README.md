@@ -35,7 +35,7 @@
         </tr>
       </table>
     <div align="right">
-      <div align="left"><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="75" align="left">3D Prinint projects:</div>
+      <div align="middle"><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="75" align="left">3D <h2>Prinint projects:</h2></div>
       <h3>Actual:</h3>
     <dl>
       <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="25"> - <a href="https://github.com/flow1990/Humidity_Observer">Humidity Observer</a> <I>(in progress)</I><dt>
