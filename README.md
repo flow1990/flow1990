@@ -34,7 +34,7 @@
           <td>childish</td>
         </tr>
       </table>
-    <div alogn="middle">
+    <div align="middle">
       I am an software engineer in training.
     </div>
   </div>
