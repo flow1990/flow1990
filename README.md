@@ -60,14 +60,12 @@
     <dl>
       <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="25"><dt>
       <dd>
-  
       </dd>
       </dl>
       <h3>(Hopefully) soon coming ideas:</h3>
     <dl>
       <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="25"><dt>
       <dd> 
-      
       </dd>
       </dl>
     </div>
