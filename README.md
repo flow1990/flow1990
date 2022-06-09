@@ -58,6 +58,7 @@
     </div>
   
   <hr>
+  <div>
         <div align="middle">
         <h2>Arduino projects:</h2>
       </div>
@@ -79,4 +80,5 @@
       </dd>
       </dl>
     </div>
+  </div>
 </body>
