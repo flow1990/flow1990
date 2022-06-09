@@ -34,9 +34,6 @@
           <td>childish</td>
         </tr>
       </table>
-    <div align="middle">
-      I am an software engineer in training.
-    </div>
   </div>
       <div align="middle">
         <h2>3D Printing projects:</h2>
