@@ -41,7 +41,7 @@
         <h2>3D Printing projects:</h2>
       </div>
         <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="75" align="left">
-  <div>
+  <div align="right">
     <h3>Actual:</h3>
     <dl>
       <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="25"> - <a href="https://github.com/flow1990/Humidity_Observer">Humidity Observer</a> <I>(in progress)</I><dt>
