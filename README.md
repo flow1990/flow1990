@@ -10,9 +10,7 @@
       </table>
       <table>
         <tr>
-      <th>Languages:</th>
-        </tr>
-        <tr>
+          <th>Languages:</th>
       <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/english.png" alt="british_flag" width="50"></td>
       <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/german.png" alt="german_glag" width="50"></td>
         </tr>
