@@ -55,6 +55,5 @@
       <dd>A dock for the <a href="https://github.com/Annex-Engineering/Quickdraw_Probe">Quickdraw Probe</a> for bed slinger printers with small space between bed and frame.</dd>
       </dl>
     </div>
-  </div>
 
 </body>
