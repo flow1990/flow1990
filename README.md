@@ -34,7 +34,7 @@
           <td>childish</td>
         </tr>
       </table>
-    <div align="right">
+    <div align="center">
       <h3>Actual projects:</h3>
     <dl>
       <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="25"> | <a href="https://github.com/flow1990/Humidity_Observer">Humidity Observer</a> <I>(in progress)</I><dt>
