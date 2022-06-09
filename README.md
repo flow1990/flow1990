@@ -2,14 +2,14 @@
   <div align="left">
     <h1>Hey, it's me - <B>FLOW</B>! <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/ich_kreis.png" alt="itsame" width="250" align="right"></h1>
   </div>
-  <div align="middle">
-      <h2>About me:</h2>
+  <h2 align="left">About me:</h2>
+  <div>
       <table align="left">
           <th>Hobbys:</th>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="50"></td>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="50"></td>
       </table>
-      <table alifn="middle">
+      <table align="middle">
         <tr>
           <th>I speak:</th>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/english.png" alt="british_flag" width="50"></td>
