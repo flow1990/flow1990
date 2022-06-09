@@ -40,7 +40,7 @@
   </div>
   <!-- 3D PRINTING PROJECTS -->
   <hr>
-      <div align="middle">
+      <div align="left">
         <h2>3D Printing projects:</h2>
       </div>
         <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="75" align="left">
