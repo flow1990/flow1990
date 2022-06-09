@@ -38,7 +38,6 @@
       <div align="middle">
         <h2>3D Printing projects:</h2>
       </div>
-  
         <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/3d.png" alt="3D_printing_icon" width="75" align="left">
   <div align="right">
     <h3>Actual:</h3>
@@ -59,16 +58,16 @@
   <div align="left">
     <h3>Actual:</h3>
     <dl>
-      <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="25"> - <dt>
+      <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="25"><dt>
       <dd>
-        - 
+  
       </dd>
       </dl>
       <h3>(Hopefully) soon coming ideas:</h3>
     <dl>
-      <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="25"> - <dt>
+      <dt><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/arduino.png" alt="arduino_icon" width="25"><dt>
       <dd> 
-        - 
+      
       </dd>
       </dl>
     </div>
