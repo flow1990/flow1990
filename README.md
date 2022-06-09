@@ -57,7 +57,7 @@
       </dl>
     </div>
   <!-- FOOTER -->
-  <footer align="middle">
+  <footer>
     <a href="https://www.instagram.com/relevant_stranger/"><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/insta.png" alt="instagram_icon" width="25" align="middle"></a> 
   </footer>
 </body>
