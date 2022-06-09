@@ -55,6 +55,6 @@
       </dl>
     </div>
   <footer align="middle">
-    You can find me on <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/insta.png" alt="instagram_icon" width="35"><a href="https://www.instagram.com/relevant_stranger/">relevant_stranger</a>
+    You can find me on <a href="https://www.instagram.com/relevant_stranger/"><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/insta.png" alt="instagram_icon" width="35">relevant_stranger</a>
   </footer>
 </body>
