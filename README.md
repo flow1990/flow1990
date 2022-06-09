@@ -58,6 +58,6 @@
     </div>
   <!-- FOOTER -->
   <footer align="middle">
-    <a href="https://www.instagram.com/relevant_stranger/"><img src="/https://github.com/flow1990/flow1990/blob/main/pictures/icons/insta.png"alt="instagram_icon" width="30"></a> 
+    <a href="https://www.instagram.com/relevant_stranger/"><img src="/https://github.com/flow1990/flow1990/blob/main/pictures/icons/insta.png" alt="instagram_icon" width="30"></a> 
   </footer>
 </body>
