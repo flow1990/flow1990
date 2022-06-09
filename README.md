@@ -1,6 +1,6 @@
 <body>
   <div align="left">
-<h1>Hey, it's me - <B>FLOW</B>!</h1>
+<h1>Hey, it's me - <B>FLOW</B>! <img src="https://github.com/flow1990/flow1990/blob/main/Pictures/ich_kreis.png" alt="itsame" width="250" align="right"></h1>
       <h2>About me:</h2>
       <table>
         <th>Hobbys:</th>
@@ -20,5 +20,5 @@
         </tr>
       </table>
     </div>
-<img src="https://github.com/flow1990/flow1990/blob/main/Pictures/ich_kreis.png" alt="itsame" width="250" align="right">
+
 </body>
