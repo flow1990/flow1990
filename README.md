@@ -36,7 +36,7 @@
           <td>childish</td>
         </tr>
       </table>
-  </div>
+
     <div align="middle" width="33%">
       <h2>About me:</h2>
       <table>
@@ -72,5 +72,6 @@
         </tr>
       </table>
   </div>
+      </div>
 
 </body>
