@@ -31,7 +31,7 @@
         <tr>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/php.png" alt="php_icon" width="50"></td>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/sql.png" alt="sql_icon" width="50"></td>
-          <td></td>
+          <td>childish</td>
         </tr>
       </table>
     </div>
