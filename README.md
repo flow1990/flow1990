@@ -15,7 +15,7 @@
         </tr>
         <tr>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/c.png" alt="c_icon" width="50"></td>
-          <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/c#.png" alt="c#_icon" width="50"></td>
+          <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/c_sharp.png" alt="c#_icon" width="50"></td>
           <td><img src="https://github.com/flow1990/flow1990/blob/main/Pictures/Icons/c++.png" alt="c++_icon" width="50"></td>
         </tr>
         <tr>
