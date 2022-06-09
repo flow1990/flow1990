@@ -56,7 +56,8 @@
       <dd>A dock for the <a href="https://github.com/Annex-Engineering/Quickdraw_Probe">Quickdraw Probe</a> for bed slinger printers with small space between bed and frame.</dd>
       </dl>
     </div>
+  <!-- FOOTER -->
   <footer align="middle">
-    <a href="https://www.instagram.com/relevant_stranger/"><img src="/https://github.com/flow1990/flow1990/blob/main/pictures/icons/insta.png"</a> alt="instagram_icon" width="30">
+    <a href="https://www.instagram.com/relevant_stranger/"><img src="/https://github.com/flow1990/flow1990/blob/main/pictures/icons/insta.png"alt="instagram_icon" width="30"></a> 
   </footer>
 </body>
